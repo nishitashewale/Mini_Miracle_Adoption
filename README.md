@@ -1,6 +1,4 @@
-# AED_FINAL_PROJECT
-
-E ADOPTION PORTAL 
+# E ADOPTION PORTAL 
 
 Every year nearly thousands of mothers try to abort a child and thousands of families tries to adopt a child. Even then more than 50% of these kids are unhappy with their assigned family, which leads to mistrust in these adoption agencies. To overcome this challenge, we have come up with the idea of E-Adoption portal, where systematic flow of adoption takes place. This system has 10 users- System Administrator, Financial Administrator, Hospital Administrator, Lawyer Administrator, Parent, Counselor, Birth Mother, Banker, Lawyer and Investment Manager; 4 enterprises- legal, Orphanage, Hospital and Financial; and 7 organizations – Lawyer, Orphanage, Birth Mother, Parent, Counselor, Bank and Insurance. 
 
